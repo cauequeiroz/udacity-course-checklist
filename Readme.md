@@ -1,6 +1,6 @@
 ![header](header.png)
 
-A awesome checklist of free Udacity courses for front-end developers. Just fork this repo and start to study. After each course finished, comeback and check respective course to monitoring your progress! :)
+A awesome checklist of free Udacity courses for front-end developers. Just fork this repo and start to study. After each course finished, return here and check respective course to monitoring your progress! :)
 
 ## Padawan
 
