@@ -16,7 +16,7 @@ A awesome checklist of free Udacity courses for front-end developers. Just fork 
 - [x] [Intro to jQuery](https://br.udacity.com/course/intro-to-jquery--ud245)
 - [x] [Intro to AJAX](https://br.udacity.com/course/intro-to-ajax--ud110)
 - [ ] [Javascript Testing](https://br.udacity.com/course/javascript-testing--ud549)
-- [x] [Object Oriented Javascript](https://br.udacity.com/course/object-oriented-javascript--ud015)
+- [ ] [Object Oriented Javascript](https://br.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Responsive Web Design Fundamentals](https://br.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [ ] [Responsive Images](https://br.udacity.com/course/responsive-images--ud882)
 - [ ] [Building High Conversion Web Forms](https://br.udacity.com/course/building-high-conversion-web-forms--ud890/)
@@ -32,7 +32,7 @@ A awesome checklist of free Udacity courses for front-end developers. Just fork 
 
 ## Jedi Master
 
-- [x] [JavaScript Design Patterns](https://br.udacity.com/course/javascript-design-patterns--ud989)
+- [ ] [JavaScript Design Patterns](https://br.udacity.com/course/javascript-design-patterns--ud989)
 - [ ] [Javascript Promises](https://br.udacity.com/course/javascript-promises--ud898)
 - [ ] [Learn Backbone.js](https://br.udacity.com/course/learn-backbonejs--ud990)
 - [ ] [Front End Frameworks](https://br.udacity.com/course/front-end-frameworks--ud894)
